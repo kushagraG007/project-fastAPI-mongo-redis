@@ -1,0 +1,17 @@
+# .dockerignore (like .gitignore for Docker)
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+.env
+.git
+.gitignore
+.pytest_cache
+*.log
+data/
+.vscode/
+.idea/
